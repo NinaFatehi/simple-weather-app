@@ -14,3 +14,7 @@ A simple web application that allows users to enter a city name and retrieve the
 1. Clone the repository:
    ```bash
    git clone https://github.com/YourGitHubUsername/simple-weather-app.git
+
+## Check the weather here!
+
+https://ninafatehi.github.io/simple-weather-app/
